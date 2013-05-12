@@ -1,6 +1,6 @@
 {
-  "name": "setImmediate",
-  "repo": "NobleJS/setImmediate",
+  "name": "setimmediate",
+  "repo": "meryn/setimmediate",
   "description": "A shim for the setImmediate efficient script yielding API.",
   "author": "NobleJS",
   "version": "1.0.1",
